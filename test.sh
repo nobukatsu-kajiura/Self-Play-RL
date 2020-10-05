@@ -1,0 +1,1 @@
+python test.py --t-max 20 --beta 0.01 --batchsize 16 --action_num 3 --rate 0.025 --target_rate 0.75 --test_dataset dataset/RetargetMe_test.txt --load models/sample_3actions

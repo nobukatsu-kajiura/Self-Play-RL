@@ -1,0 +1,16 @@
+results/sample_RetargetMe/0.75/original/ArtRoom.png
+results/sample_RetargetMe/0.75/original/battleship.png
+results/sample_RetargetMe/0.75/original/BedRoom.png
+results/sample_RetargetMe/0.75/original/bells.png
+results/sample_RetargetMe/0.75/original/bicycle2.png
+results/sample_RetargetMe/0.75/original/bike.png
+results/sample_RetargetMe/0.75/original/blueman.png
+results/sample_RetargetMe/0.75/original/brick_house.png
+results/sample_RetargetMe/0.75/original/buddha.png
+results/sample_RetargetMe/0.75/original/Canalhouse.png
+results/sample_RetargetMe/0.75/original/car.png
+results/sample_RetargetMe/0.75/original/car2.png
+results/sample_RetargetMe/0.75/original/face.png
+results/sample_RetargetMe/0.75/original/Fatem.png
+results/sample_RetargetMe/0.75/original/fish.png
+results/sample_RetargetMe/0.75/original/getty.png

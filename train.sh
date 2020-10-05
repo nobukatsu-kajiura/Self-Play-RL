@@ -1,0 +1,1 @@
+python train.py --logging-level 10 --t-max 20 --beta 0.01 --lr 7e-4 --steps 5000 --eval-interval 1000 --eval-n-steps 150 --outdir models --batchsize 16 --action_num 3 --rate 0.025 --train_dataset dataset/MIRFLICKR_train.txt --valid_dataset dataset/MIRFLICKR_valid.txt
